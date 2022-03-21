@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "agregar.h": "c",
+        "buscar.c": "cpp",
+        "stdio.h": "c"
+    }
+}
